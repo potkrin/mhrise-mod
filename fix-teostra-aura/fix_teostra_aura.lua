@@ -1,5 +1,6 @@
 -- fix_teostra_mode.lua : written by hotkrin
--- fix the Teostra's unique mode to Flame or Blast
+-- fix the first Teostra's unique aura mode to Flame or Blast
+-- this mod doesn't affect to 2nd, 3rd and latter aura
 
 -- how to find:
 --    DeveloperTools -> ObjectExplorer -> Types: Search "Em027"
